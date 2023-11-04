@@ -16,28 +16,34 @@ Par ailleurs, le projet dispose également d'une documentation générée automa
 **POSTMAN :
 -----------
 -GET
+------
 
 ![2](https://github.com/Samia-Kouame/tp-spring-boot/assets/147660832/113db277-7317-4964-8e4d-e7498714d02c)
 
 -PUT
+------
 
 ![3](https://github.com/Samia-Kouame/tp-spring-boot/assets/147660832/2658e214-4c6f-445d-9adc-7701e23dda9d)
 
--DELETE
+-DELET
+------
 
 ![4](https://github.com/Samia-Kouame/tp-spring-boot/assets/147660832/0bfb0e98-b2c7-41c5-8e82-400f44ebd7be)
 
 **SWAGGER :
 ----------
 -GET
+-----
 
 ![5](https://github.com/Samia-Kouame/tp-spring-boot/assets/147660832/bad283b5-84e3-473f-a286-c54e95df7752)
 
 -POST
+------
 
 ![6](https://github.com/Samia-Kouame/tp-spring-boot/assets/147660832/526dff8c-9c87-42d2-a35e-39273f92f766)
 
 -DELETE
+-------
 
 ![6 ](https://github.com/Samia-Kouame/tp-spring-boot/assets/147660832/f26a6b3f-6311-478f-a093-5a62ce60d84f)
 
